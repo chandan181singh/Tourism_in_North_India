@@ -12,4 +12,4 @@ https://www.fabhotels.com/blog/places-to-visit-in-north-india/
 You may put some link here which you explored and feel some contain should be added from here.
 Please keep contributing your thought and you are free to do any changes
 
-Thankyou!!😀😀😀💗🙃🙃🙃
+Thankyou!!😀
