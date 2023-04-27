@@ -7,3 +7,5 @@ function main()
   return null;
 }// 3rd time
 
+console.log("Hello World");
+console.log("Hello World");
